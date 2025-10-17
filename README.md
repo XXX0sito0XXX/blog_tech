@@ -44,7 +44,7 @@
 
 | 🧾 Artículo | 📝 Descripción | 🔗 Enlace |
 |-------------|----------------|-----------|
-| [Cómo optimizar tu código en Python](posts/como-optimizar-codigo-python.md) | Técnicas avanzadas de profiling y optimización. | [Leer →](posts/como-optimizar-codigo-python.md) |
+| [Node JS best practices](posts/node-best-practices.md) | Node best practices. | [Leer →](posts/node-best-practices.md) |
 | [Repositorio de herramientas](posts/repositorio-herramientas.md) | Puedes encontrar varias herramientas informáticas. | [Leer →](posts/repositorio-herramientas.md) |
 | [Fundamentos de programación funcional en JS](posts/programacion-funcional-js.md) | Código más limpio y reusable. | [Leer →](posts/programacion-funcional-js.md) |
 

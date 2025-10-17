@@ -1,8 +1,8 @@
 # Repositorio de herramientas
 
-**Fecha:** 2025-10-17  
-**Categoría:** 💻 Programación  
-**Autor:** [Luis Alberto Roman Cruz](https://github.com/XXX0sio0XXX)
+**Fecha:** 2025-10-17
+**Categoría:** 💻 Programación
+**Autor:** [Luis Alberto Roman Cruz](https://github.com/XXX0sito0XXX)
 
 ---
 
