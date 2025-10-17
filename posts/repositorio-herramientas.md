@@ -14,9 +14,9 @@
 
 ## 🔍 Crypto
 
-Token generator
-Hash text
-Bcrypt
+Token generator.
+Hash text.
+Bcrypt.
 UUIDs generator
 ULID generator
 Encrypt / decrypt text
