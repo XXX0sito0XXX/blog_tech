@@ -13,7 +13,7 @@
 
 - [📅 Últimos artículos](#-últimos-artículos)
 - [💻 Programación](#-programación)
-- [🎨 Diseño y UX/UI](#-diseño-y-uxui)
+- [🎨 Diseño y UX/UI](#-diseño-y-uxui) 
 - [⚙️ DevOps & Cloud](#-devops--cloud)
 - [🧩 Otros temas](#-otros-temas)
 - [👤 Sobre mí](#-sobre-mí)
@@ -45,7 +45,7 @@
 | 🧾 Artículo | 📝 Descripción | 🔗 Enlace |
 |-------------|----------------|-----------|
 | [Cómo optimizar tu código en Python](posts/como-optimizar-codigo-python.md) | Técnicas avanzadas de profiling y optimización. | [Leer →](posts/como-optimizar-codigo-python.md) |
-| [Introducción a APIs REST con Flask](posts/apis-rest-flask.md) | Crea tu primera API RESTful desde cero. | [Leer →](posts/apis-rest-flask.md) |
+| [Repositorio de herramientas](posts/repositorio-herramientas.md) | Puedes encontrar varias herramientas informáticas. | [Leer →](posts/repositorio-herramientas.md) |
 | [Fundamentos de programación funcional en JS](posts/programacion-funcional-js.md) | Código más limpio y reusable. | [Leer →](posts/programacion-funcional-js.md) |
 
 ---
